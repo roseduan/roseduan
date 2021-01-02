@@ -9,8 +9,8 @@
 
 #### Project
 
-* [rosedb](https://github.com/roseduan/rosedb)：A simple k-v database in pure Golang, supports string, list, hash, set, sorted set.（一个 Go语言实现 k-v 数据库）
-* [algo-learn](https://github.com/roseduan/algo-learn)：some practice code learning algo and datastructure.（学习算法和数据结构的联系素材）
+* [rosedb](https://github.com/roseduan/rosedb)：A simple k-v database in pure Golang, supports string, list, hash, set, sorted set.（一个 Go 语言实现 k-v 数据库）
+* [algo-learn](https://github.com/roseduan/algo-learn)：some practice code learning algo and datastructure.（学习算法和数据结构的练习素材，包含一些 leetcode 题目）
 
 #### My Github Stats
 

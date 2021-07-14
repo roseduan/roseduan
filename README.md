@@ -9,8 +9,9 @@
 
 #### Project
 
-* [rosedb](https://github.com/roseduan/rosedb)：A fast, stable and embedded k-v database in pure Golang（一个 Go 语言实现的高效快速的 k-v 数据库）
-* [algo-learn](https://github.com/roseduan/algo-learn)：some practice code for learning algo and datastructure.（学习算法和数据结构的练习素材，包含一些 leetcode 题目）
+* [rosedb](https://github.com/roseduan/rosedb)：A fast, stable and embedded k-v database in pure Golang（一个 Go 语言实现的高效快速的 k-v 存储引擎）
+* [minidb](https://github.com/roseduan/minidb)：a mini version of rosedb, help understanding rosedb and bitcask（rosedb 的 mini 版本，帮助理解 rosedb 项目及 bitcask 存储模型）
+* [algo-learn](https://github.com/roseduan/algo-learn)：some practice code for learning algo and datastructure（学习算法和数据结构的练习素材，包含一些 leetcode 题目）
 
 #### Github Stats
 
@@ -21,4 +22,3 @@
 
 | ![](https://s3.jpg.cm/2021/06/05/IIOJGy.png) |
 | -------------------------------------------- |
-

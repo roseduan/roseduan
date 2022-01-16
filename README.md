@@ -1,17 +1,18 @@
-### Hi there 👋，我是 roseduan，一名 Javaer 和 Gopher
+### Hi there 👋，I am roseduan，interested in distributed systems and kv storage.
 
 #### Contact Me
 
-* 微信公众号：**roseduan 写字的地方**，读书逗乐、闲扯、思考，欢迎你来。
+* 微信公众号：**roseduan 写字的地方**，技术、思考、读书、逗乐，欢迎你来。
 * 知乎：[roseduan](https://www.zhihu.com/people/roseduan)，分享一些琐碎的知识，操一把键盘，指点江山，激扬文字。
 * csdn：[roseduan](https://blog.csdn.net/rose_duanm)，一些文章也会同时发布在 CSDN 上，欢迎围观。
 * B 站：[roseduanV](https://space.bilibili.com/26194591)，文字不太好表达的，就来看视频吧。
 
 #### Project
 
-* [rosedb](https://github.com/roseduan/rosedb)：A fast, stable and embedded k-v database in pure Golang（一个 Go 语言实现的高效快速的 k-v 存储引擎）
-* [minidb](https://github.com/roseduan/minidb)：a mini version of rosedb, help understanding rosedb and bitcask（rosedb 的 mini 版本，帮助理解 rosedb 项目及 bitcask 存储模型）
-* [algo-learn](https://github.com/roseduan/algo-learn)：some practice code for learning algo and datastructure（学习算法和数据结构的练习素材，包含一些 leetcode 题目）
+* [lotusdb](https://github.com/flower-corp/lotusdb)：Fast k/v storage compatible with lsm and b+tree.
+* [rosedb](https://github.com/roseduan/rosedb)：A fast, stable and embedded k-v store in pure Golang, based on Bitcask.
+* [minidb](https://github.com/roseduan/minidb)：a mini version of rosedb, help understanding rosedb and bitcask.
+* [algo-learn](https://github.com/roseduan/algo-learn)：some practice code for learning algorithm and datastructure.
 
 #### Github Stats
 

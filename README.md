@@ -17,6 +17,12 @@
 
 ***
 
+### 《从零实现 SQL 数据库》课程已上线！
+使用 Rust 手写一个数据库系统，超级硬核，Rust 实战项目首选！
+课程详情：
+
+[Rust 手写 SQL 数据库](https://w02agegxg3.feishu.cn/docx/OxwGdeM30oss7vxEG5AcUn4unEc)
+
 ### 《从零实现 KV 存储》课程已上线！
 
 使用 **Rust 和 Go** 两种语言实现，手把手教学，只需要基础的语法知识，即可学会一个硬核实战项目！
